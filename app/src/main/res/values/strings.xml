@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="screen_title">Packers Timer</string>
+    <string name="minutes">Minutes</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="timer_done">Timer is Done</string>
+    <string name="done">Done!</string>
+</resources>
